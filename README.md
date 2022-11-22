@@ -37,6 +37,13 @@ We keep in touch via slack, zoom and make sure about each branch and the final r
 Each teammate works in the aspect of the project was considered his strength and help each other with recommendations and tips. 
 
 # Summary project: 
+### ML Models: to predicted the winner of the championship we used 3 different machine learning models, the results show the team most likely to win. 
+* Logistic Regression
+Las Vegas Aces
+* Decision Tree
+Las Vegas Aces,Connecticut Sun
+* Random Forest
+Connecticut Sun
 
 * Data was scrapped from https://www.basketball-reference.com/
 
