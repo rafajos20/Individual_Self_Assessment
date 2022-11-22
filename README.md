@@ -38,6 +38,7 @@ Each teammate works in the aspect of the project was considered his strength and
 
 # Summary project: 
 ### ML Models: to predicted the winner of the championship we used 3 different machine learning models, the results show the team most likely to win. 
+
 * Logistic Regression
 Las Vegas Aces
 * Decision Tree
