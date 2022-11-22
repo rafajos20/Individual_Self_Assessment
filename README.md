@@ -46,5 +46,5 @@ Each teammate works in the aspect of the project was considered his strength and
 
 * web page 
 
-[Wnba Predictions](https://rafajos20.github.io/Wnba_predictions/)
+[Wnba Predictions](https://rafajos20.github.io/wnba_predictions/)
 
