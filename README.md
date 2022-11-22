@@ -29,8 +29,21 @@ During this last segment, my role was the square in charge to finalize the READM
 The first challenge was creating the final dataset because the stats in the web site is only for each season, but you can’t retrieve it for all the seasons also this need some modifications for be set up for the models and the database. 
 Work in the web page was a big challenge for me and enjoyed being creative and put all the hard work for weeks together in one site. 
 
+# Team assessment 
+* The communications protocols: 
+We keep in touch via slack, zoom and make sure about each branch and the final repository have the necessary files each week. 
+* Tips and trick: 
+Each teammate works in the aspect of the project was considered his strength and help each other with recommendations and tips. 
 
+# Summary project: 
 
-# Wnba_predictions
+* Data was scrapped from https://www.basketball-reference.com/
+
+* ERD https://www.quickdatabasediagrams.com/
+
+* Google slides [Wnba Predictions_presentations](https://docs.google.com/presentation/d/10bAOWkrWM3veIdgE84QRVg1vOGXGeJDbY-aToJUFGBc/edit?usp=sharing)
+
+* web page 
+
 [Wnba Predictions](https://rafajos20.github.io/Wnba_predictions/)
 
