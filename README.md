@@ -1,4 +1,5 @@
-# Wnba_predictions
+![](resources1/ias.png)  
+
 # Self Assedment 
 
 ## Analysis:
