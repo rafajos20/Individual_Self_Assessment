@@ -1,3 +1,4 @@
+# Wnba_predictions
 # Self Assedment 
 ### segment 1
 
@@ -15,7 +16,6 @@ My role for this part of the process was triangle, in this point I done with the
 During this last segment, my role was the square in charge to finalize the README in the project repository. This means making sure the conclusion and any additional observations made by the team over the course of the project have been added to it.
 
 
-# Individual_Self_Assessment
 # Wnba_predictions
 [Wnba Predictions](https://rafajos20.github.io/Wnba_predictions/)
 
