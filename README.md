@@ -1,5 +1,7 @@
 # Wnba_predictions
 # Self Assedment 
+
+## Analysis:
 ### segment 1
 
 my role was circle for this part in charge of the mockup database. I used PostgreSQL and designed an ERD of the database and document for support how I integrated into the database and how it works with code. Also, I set up my repository branch and started to work with my teammates pull and push the different files we needed for completed the requirements on the week. The data set was retrieved for the https://www.basketball-reference.com/ putting together the data for the last 25 years of WNBA seasons. 
@@ -14,6 +16,19 @@ My role for this part of the process was triangle, in this point I done with the
 ### Segment 4
 
 During this last segment, my role was the square in charge to finalize the README in the project repository. This means making sure the conclusion and any additional observations made by the team over the course of the project have been added to it.
+
+## Summary:
+• Data was scrapped from https://www.basketball-reference.com/ , saved as .csv. (between season 1997-98 to 2021-22) • Total of twenty five tables, one for every season.
+• Datasets loaded into PostgreSQL database using python. (database_initial_load.ipynb)
+• Updated datasets saved as csv(Folder "other/stats.cvs and cy_stats1), cleaned and loaded into database. (database_load.ipynb)
+• Column name changed inside database
+• All 2 datasets consist of the same columns/features. This columns/features consisted of Win pct, Margin of victory, Pace, Offensive rating, Defensive rating plus five columns with team advance stats and another five with opponents advance stats.
+•	Collaborate with the presentation for google slides and web page. 
+
+## Challenge:
+The first challenge was creating the final dataset because the stats in the web site is only for each season, but you can’t retrieve it for all the seasons also this need some modifications for be set up for the models and the database. 
+Work in the web page was a big challenge for me and enjoyed being creative and put all the hard work for weeks together in one site. 
+
 
 
 # Wnba_predictions
